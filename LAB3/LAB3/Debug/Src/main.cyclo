@@ -1,0 +1,7 @@
+../Src/main.c:33:5:main	1
+../Src/main.c:51:6:systick_init	1
+../Src/main.c:58:6:SysTick_Handler	1
+../Src/main.c:63:13:exti0_callback	1
+../Src/main.c:68:13:exti1_callback	1
+../Src/main.c:73:6:EXTI0_IRQHandler	3
+../Src/main.c:85:6:EXTI2_IRQHandler	3

@@ -1,0 +1,7 @@
+"./Src/exti.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/systick.o"
+"./Src/systick_main.o"
+"./Startup/startup_stm32f107vctx.o"
